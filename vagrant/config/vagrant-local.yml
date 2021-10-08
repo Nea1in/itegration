@@ -1,0 +1,23 @@
+# Your personal GitHub token
+github_token: dcccea2cd6eac2eb7aa7656e2735178f5b2b57c9
+# Read more: https://github.com/blog/1509-personal-api-tokens
+# You can generate it here: https://github.com/settings/tokens
+
+# Guest OS timezone
+timezone: Europe/Kiev
+
+# Are we need check box updates for every 'vagrant up'?
+box_check_update: false
+
+# Virtual machine name
+# machine_name: reimbursement
+machine_name: todo-list
+
+# Virtual machine IP
+ip: 192.168.83.100
+
+# Virtual machine CPU cores number
+cpus: 1
+
+# Virtual machine RAM
+memory: 1024
